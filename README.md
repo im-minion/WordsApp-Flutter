@@ -1,8 +1,3 @@
-# flutter_app
+# Words App
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<img src="https://github.com/im-minion/WordsApp-Flutter/blob/master/words_app.gif" width = "320">
